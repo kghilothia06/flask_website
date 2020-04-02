@@ -1,0 +1,19 @@
+{
+  "params": 
+  {
+    "local_server" : "True",
+    "local_uri" : "mysql://root:@localhost/myblogs",
+    "prod_uri" : "mysql://root:@localhost/myblogs",
+    "fb_url" : "https://facebook.com/myblogs",
+    "tw_url" : "https://twitter.com/myblogs",
+    "gh_url" : "https://github.com/myblogs",  
+    "gmail-user" : "kushrocks06@gmail.com",
+    "gmail-password" : "liferocks",
+    "about-text" : "hi I am kush, I code my way out of situations , I am a good bloke",
+    "no_of_posts" : 2,
+    "blog_name" : "Code your way out",
+    "admin_user" : "kush",
+    "admin_password" : "happyschool",
+    "upload_location" : "C:\\Users\\KUSH\\Desktop\\flask-tutorial\\static"
+  }
+}
